@@ -135,22 +135,12 @@ TBD
 
 </table>
 
-## <img src="Assets/peerCoders.gif" width="30px"> Peer coders
+## <img src="Assets/peerCoders.gif" width="30px"> Grading Metrics
 
-| Team Member  | GitHub Link                              | LinkedIn Link                                               |
-| ------------ | ---------------------------------------- | ----------------------------------------------------------- |
-| Kevin Holder | [View](https://github.com/kholder777)    | [View](https://www.linkedin.com/in/kevin-holder-25476788/)  |
-| Jordan Neill | [View](https://github.com/jordanalexis6) | [View](https://www.linkedin.com/in/jordan-neill-a48b681a0/) |
-| Ashley Lerma | [View](https://github.com/AshleyLerma)   | [View](https://www.linkedin.com/in/ashleylerma/)            |
-
-## 🔥 Desired Future Enhancements
-
-- The command-line application should allow users to:
-
-  - Update employee managers
-
-  - View employees by manager
-
-  - Delete departments, roles, and employees
-
-  - View the total utilized budget of a department -- ie the combined salaries of all employees in that department
+| Metric        | Weight |
+| ------------- | ------ |
+| Concept       | 10%    |
+| Design        | 20%    |
+| Functionality | 30%    |
+| Collaboration | 30%    |
+| Presentation  | 10%    |
