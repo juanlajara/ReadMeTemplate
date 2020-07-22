@@ -1,4 +1,4 @@
-<h1 align='center'>Project 2</h1>
+<h1 align='center'>ReadMe Template</h1>
   <!-- <div align='center'>
     <img height="32" width="32" style="vertical-align:center;margin:4px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/npm.svg" /img><img  height="32" width="32" padding-left="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" style="vertical-align:center; margin:5px" </img> </div> -->
 
