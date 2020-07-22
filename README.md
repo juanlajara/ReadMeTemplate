@@ -94,7 +94,7 @@ TBD
 
   </td> 
   
-  <td align="center"><a href="https://ashleylerma.github.io/"><img src="https://avatars0.githubusercontent.com/u/63020690?s=460&u=f017ae07a8f021605b638779037332261511e2de&v=4" width="100px;" /><br /><sub><b>Ashley Lerma</b></sub></a><br />
+  <td align="center"><a href="https://ashleylerma.github.io/index.html"><img src="https://avatars0.githubusercontent.com/u/63020690?s=460&u=f017ae07a8f021605b638779037332261511e2de&v=4" width="100px;" /><br /><sub><b>Ashley Lerma</b></sub></a><br />
    <a href="https://github.com/AshleyLerma"><img src="./Assets/github.svg" width="20px;" alt=""></a>
    <a href="https://www.linkedin.com/in/ashleylerma"><img src="./Assets/linkedin.svg" width="20px;" alt=""></a>
     <details>
