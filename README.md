@@ -12,6 +12,16 @@ Welcome to **Project 2!** This is yet another important milestone in your full-s
 TBD
 ```
 
+## MVP 
+-
+-
+-
+
+## Nice To Haves
+- 
+-
+-
+
 ## ⚓ Minimum Requirements
 
 - **Application Requirements**
@@ -62,17 +72,19 @@ TBD
 
 ## 📦 Setup and Instructions
 
-- TBD [LiveLink](https://www.mysqltutorial.org/).
+- TBD [LiveLink](deployed Heroku link).
 
   ### Tools & Packages
-
-  > #### NPM Packages (TBD)
+  
   >
-  > - Used the [MySQL](https://www.npmjs.com/package/mysql) NPM package to connect to your MySQL database and perform queries.
+  > - Used [Express](https://expressjs.com/) Express is a minimal and flexible Node.js web application framework.
   >
-  > - Used [InquirerJs](https://www.npmjs.com/package/inquirer/v/0.2.3) NPM package to interact with the user via the command-line.
+  > - Used [MySQL](https://www.npmjs.com/package/mysql) NPM package to connect to your MySQL database and perform queries.
   >
-  > - Used [console.table](https://www.npmjs.com/package/console.table) to print MySQL rows to the console. There is a built-in version of `console.table`, but the NPM package formats the data a little better for our purposes.
+  > - Used [Sequelize](https://sequelize.org/) Promise-based Node.js ORM for Postgres, MySQL. 
+  >
+  > - Used [React.js](https://reactjs.org/) Open-source JavaScript library for building user interfaces.
+  >  
 
 ## 📽️ The following animation demonstrates the application's functionality:
 
